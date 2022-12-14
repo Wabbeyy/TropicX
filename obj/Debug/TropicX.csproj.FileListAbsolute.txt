@@ -1,0 +1,29 @@
+D:\TropicX\Dev\TropicX\bin\Debug\TropicX.exe.config
+D:\TropicX\Dev\TropicX\bin\Debug\TropicX.exe
+D:\TropicX\Dev\TropicX\bin\Debug\TropicX.pdb
+D:\TropicX\Dev\TropicX\obj\Debug\TropicX.csproj.AssemblyReference.cache
+D:\TropicX\Dev\TropicX\obj\Debug\TropicX.csproj.SuggestedBindingRedirects.cache
+D:\TropicX\Dev\TropicX\obj\Debug\TropicX.Form1.resources
+D:\TropicX\Dev\TropicX\obj\Debug\TropicX.Properties.Resources.resources
+D:\TropicX\Dev\TropicX\obj\Debug\TropicX.csproj.GenerateResource.cache
+D:\TropicX\Dev\TropicX\obj\Debug\TropicX.csproj.CoreCompileInputs.cache
+D:\TropicX\Dev\TropicX\obj\Debug\TropicX.exe
+D:\TropicX\Dev\TropicX\obj\Debug\TropicX.pdb
+D:\TropicX\Dev\TropicX\bin\Debug\FastColoredTextBox.dll
+D:\TropicX\Dev\TropicX\obj\Debug\TropicX.csproj.CopyComplete
+D:\TropicX\Dev\TropicX\bin\Debug\WeAreDevs_API.dll
+D:\! Projets\TropicX\Dev\TropicX\bin\Debug\TropicX.exe.config
+D:\! Projets\TropicX\Dev\TropicX\bin\Debug\TropicX.exe
+D:\! Projets\TropicX\Dev\TropicX\bin\Debug\TropicX.pdb
+D:\! Projets\TropicX\Dev\TropicX\bin\Debug\FastColoredTextBox.dll
+D:\! Projets\TropicX\Dev\TropicX\bin\Debug\Guna.UI2.dll
+D:\! Projets\TropicX\Dev\TropicX\bin\Debug\WeAreDevs_API.dll
+D:\! Projets\TropicX\Dev\TropicX\obj\Debug\TropicX.csproj.AssemblyReference.cache
+D:\! Projets\TropicX\Dev\TropicX\obj\Debug\TropicX.csproj.SuggestedBindingRedirects.cache
+D:\! Projets\TropicX\Dev\TropicX\obj\Debug\TropicX.Form1.resources
+D:\! Projets\TropicX\Dev\TropicX\obj\Debug\TropicX.Properties.Resources.resources
+D:\! Projets\TropicX\Dev\TropicX\obj\Debug\TropicX.csproj.GenerateResource.cache
+D:\! Projets\TropicX\Dev\TropicX\obj\Debug\TropicX.csproj.CoreCompileInputs.cache
+D:\! Projets\TropicX\Dev\TropicX\obj\Debug\TropicX.csproj.CopyComplete
+D:\! Projets\TropicX\Dev\TropicX\obj\Debug\TropicX.exe
+D:\! Projets\TropicX\Dev\TropicX\obj\Debug\TropicX.pdb

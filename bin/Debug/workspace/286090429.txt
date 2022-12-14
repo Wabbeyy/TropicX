@@ -1,0 +1,1 @@
+{"Team Check":true,"Silent Aim":false,"Tracers":false,"Visuals Color":"Rainbow","Aimbot":true,"Show FOV":true,"Wallbang":true,"ESP":true}
